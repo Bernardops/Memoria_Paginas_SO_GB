@@ -1,5 +1,5 @@
 # Memoria_Paginas_SO_GB
-# Feito por: Bernardo Petry Salvador.
+# Feito por: Bernardo Petry Salvador
 # Grau B na cadeira de Sistemas Operacionais: Análise e Aplicações
 
 # Simulador de Memória Virtual com Paginação
